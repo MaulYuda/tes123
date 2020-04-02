@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MenuBar</string>
+    <string name="menu_1">REGISTRASI</string>
+    <string name="menu_2">LOGIN</string>
+    <string name="menu_3">Menu Ketiga</string>
+    <string name="labelapp">Form Registrasi</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="notlp">No. Telpon</string>
+    <string name="daftar">Daftar</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_notlp">Masukkan No. Telpon</string>
+    <string name="un">Username</string>
+    <string name="input_username">Masukkan Username</string>
+    <string name="ps">Password</string>
+    <string name="input_pass">Masukkan Password</string>
+    <string name="btn">Masukkan Login</string>
+    <string name="hsl">Hsilnya</string>
+    <string name="labelapek">LOGIN MENU</string>
+
+</resources>
